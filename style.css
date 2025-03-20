@@ -1,0 +1,36 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin:  auto;
+  }
+
+th {
+
+  background-color: grey;
+  height: 50px;
+}
+
+td{
+
+  height: 50px;
+  text-align: center;
+  background-color: beige;
+  padding: 5px;
+  
+}
+
+
+body{
+
+  background-color: #7d6608;
+}
+.stm{
+  background-color: #4a235a;
+  padding: 30px;
+  color: white;
+  text-align: center;
+
+}
+
+ 
+
